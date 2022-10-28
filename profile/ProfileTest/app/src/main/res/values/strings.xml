@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProfileTest</string>
+    <string name="txtName">Aljeda Cepele</string>
+    <string name="txtBtn">View Profile</string>
+    <string name="idProfileInformation">Enter your bio information here: \nHi, my name is Aljeda.\nI am 29 years old.\nMy major is Mobile Design and Development.</string>
+</resources>
